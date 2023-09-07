@@ -1,5 +1,5 @@
 {
-  "name": "ravenous",
+  "name": "RestaurantRecommender",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
